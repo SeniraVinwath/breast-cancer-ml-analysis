@@ -5,10 +5,11 @@ This repository contains a collection of three Google Colab notebooks created as
 
 
 📂 ML_Project_Repo/
-├── NoteBook1_20220997.ipynb
-├── NoteBook2_20220997.ipynb
-├── NoteBook3_20220997.ipynb
-└── README.md
+
+    NoteBook1_20220997.ipynb
+    NoteBook2_20220997.ipynb
+    NoteBook3_20220997.ipynb
+    README.md
 
 
 📘 Case Study A: Mortality Status Classification
@@ -17,13 +18,6 @@ Objective
 
 Build and evaluate machine learning models to classify whether a breast cancer patient is Alive or Dead based on clinical and demographic data.
 
-Techniques Used
-    Data preprocessing (null handling, encoding, normalization)
-    Class balancing
-    Train-test splitting (60:40, stratified)
-    Model training: Naïve Bayes, Logistic Regression, K-Nearest Neighbors
-    Hyperparameter tuning with GridSearchCV
-    Evaluation metrics: Recall, Precision, F1-Score, AUC-ROC
 
 Key Insights
 
@@ -36,11 +30,6 @@ Key Insights
 Objective
 
 Predict the number of months a cancer patient is expected to survive using regression models.
-
-Techniques Used
-    Decision Tree Regressor (DT-1: fully grown, DT-2: pre-pruned)
-    Model interpretability and decision rules
-    Evaluation metrics: MAE, MSE, R²
 
 Key Insights
 
